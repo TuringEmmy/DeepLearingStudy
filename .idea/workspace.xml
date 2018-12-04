@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45240b03-e5ba-4915-bdde-69451893cb56" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow07/7-1作业.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow07/7-2递归神经网络RNN.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow07/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-1保存.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-2加载.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-3下载google图像识别网络inception-v3并查看结构.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-4使用inception-v3做各种图像的识别.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflowe08/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow06/6-1卷积分神经网络应用于MNIST数据集分类.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow06/6-1卷积分神经网络应用于MNIST数据集分类.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow07/7-2递归神经网络RNN.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow07/7-2递归神经网络RNN.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,19 +19,23 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/DeepLearingStudy$2_1.coverage" NAME="2-1 Coverage Results" MODIFIED="1543801552200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe02" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$8_3googleinception_v3.coverage" NAME="8-3下载google图像识别网络inception-v3并查看结构 Coverage Results" MODIFIED="1543911172707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$.coverage" NAME="验证码识别实现 Coverage Results" MODIFIED="1543490382406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$2_4.coverage" NAME="2-4 Coverage Results" MODIFIED="1543807990425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe02" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$demo.coverage" NAME="demo Coverage Results" MODIFIED="1543479754990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowStudy/tensorflow08" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$8_2.coverage" NAME="8-2加载 Coverage Results" MODIFIED="1543908416116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$6_1MNIST.coverage" NAME="6-1卷积分神经网络应用于MNIST数据集分类 Coverage Results" MODIFIED="1543902142156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow06" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$8_4inception_v3.coverage" NAME="8-4使用inception-v3做各种图像的识别 Coverage Results" MODIFIED="1543912156213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$4_3.coverage" NAME="4-3优化器 Coverage Results" MODIFIED="1543827183673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow04" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$basic_eager_api.coverage" NAME="basic_eager_api Coverage Results" MODIFIED="1543828064177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02TensorFlow-Examples/2-1Introduction" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$5_1.coverage" NAME="5-1 Coverage Results" MODIFIED="1543829413369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow05" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$7_1.coverage" NAME="7-1作业 Coverage Results" MODIFIED="1543903628988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow07" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1543488341706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$8_1.coverage" NAME="8-1保存 Coverage Results" MODIFIED="1543908155337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$3_1.coverage" NAME="3-1 Coverage Results" MODIFIED="1543810012196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow03" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$4_2.coverage" NAME="4-2拟合 Coverage Results" MODIFIED="1543823449334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow04" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$2_3.coverage" NAME="2-3 Coverage Results" MODIFIED="1543805878859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe02" />
-    <SUITE FILE_PATH="coverage/DeepLearingStudy$7_2RNN.coverage" NAME="7-2递归神经网络RNN Coverage Results" MODIFIED="1543905825435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow07" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$7_2RNN.coverage" NAME="7-2递归神经网络RNN Coverage Results" MODIFIED="1543908040944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow07" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$5_4.coverage" NAME="5-4可视化 Coverage Results" MODIFIED="1543896460522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow06" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$2_2.coverage" NAME="2-2 Coverage Results" MODIFIED="1543802705852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe02" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$3_3.coverage" NAME="3-3 Coverage Results" MODIFIED="1543817781858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow03" />
@@ -53,11 +59,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="7-2递归神经网络RNN.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow07/7-2递归神经网络RNN.py">
+      <file leaf-file-name="8-4使用inception-v3做各种图像的识别.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflowe08/8-4使用inception-v3做各种图像的识别.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+            <state relative-caret-position="503">
+              <caret line="92" column="27" lean-forward="true" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
               <folding>
                 <element signature="e#139#162#0" expanded="true" />
               </folding>
@@ -77,6 +83,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>rand</find>
+      <find>Image</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -85,10 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/简单的神经网络实现手写数字图片识别.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/手写数字识别.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/简单的单层神经网络预测手写数字图片.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/readme.md" />
         <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/卷积分神经网络以及卷积层结构.py" />
         <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/面试题分析.py" />
         <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/激活层和池化层.py" />
@@ -135,7 +138,11 @@
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow06/5-4可视化.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow06/6-1卷积分神经网络应用于MNIST数据集分类.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow07/7-1作业.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-1保存.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow07/7-2递归神经网络RNN.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-2加载.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-3下载google图像识别网络inception-v3并查看结构.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-4使用inception-v3做各种图像的识别.py" />
       </list>
     </option>
   </component>
@@ -148,8 +155,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="37" />
     <option name="y" value="24" />
-    <option name="width" value="1114" />
-    <option name="height" value="592" />
+    <option name="width" value="1325" />
+    <option name="height" value="601" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -210,7 +217,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tensorflow07" />
+              <option name="myItemId" value="tensorflowe08" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -238,79 +245,7 @@
       <recent name="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7-2递归神经网络RNN">
-    <configuration default="false" name="5-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Alchemy/tensorflow05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DeepLearingStudy" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflow05/5-1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="5-4可视化" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Alchemy/tensorflow06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DeepLearingStudy" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflow05/5-4可视化.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="6-1卷积分神经网络应用于MNIST数据集分类" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Alchemy/tensorflow06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DeepLearingStudy" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflow06/6-1卷积分神经网络应用于MNIST数据集分类.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="7-1作业" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Alchemy/tensorflow07" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DeepLearingStudy" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflow07/7-1作业.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.8-4使用inception-v3做各种图像的识别">
     <configuration default="false" name="7-2递归神经网络RNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -325,6 +260,78 @@
       <module name="DeepLearingStudy" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflow07/7-2递归神经网络RNN.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="8-1保存" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DeepLearingStudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-1保存.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="8-2加载" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DeepLearingStudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-2加载.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="8-3下载google图像识别网络inception-v3并查看结构" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DeepLearingStudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-3下载google图像识别网络inception-v3并查看结构.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="8-4使用inception-v3做各种图像的识别" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DeepLearingStudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-4使用inception-v3做各种图像的识别.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -544,19 +551,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.5-1" />
-      <item index="1" class="java.lang.String" itemvalue="Python.5-4可视化" />
-      <item index="2" class="java.lang.String" itemvalue="Python.6-1卷积分神经网络应用于MNIST数据集分类" />
-      <item index="3" class="java.lang.String" itemvalue="Python.7-1作业" />
-      <item index="4" class="java.lang.String" itemvalue="Python.7-2递归神经网络RNN" />
+      <item index="0" class="java.lang.String" itemvalue="Python.7-2递归神经网络RNN" />
+      <item index="1" class="java.lang.String" itemvalue="Python.8-1保存" />
+      <item index="2" class="java.lang.String" itemvalue="Python.8-2加载" />
+      <item index="3" class="java.lang.String" itemvalue="Python.8-3下载google图像识别网络inception-v3并查看结构" />
+      <item index="4" class="java.lang.String" itemvalue="Python.8-4使用inception-v3做各种图像的识别" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.7-2递归神经网络RNN" />
-        <item index="1" class="java.lang.String" itemvalue="Python.7-1作业" />
-        <item index="2" class="java.lang.String" itemvalue="Python.6-1卷积分神经网络应用于MNIST数据集分类" />
-        <item index="3" class="java.lang.String" itemvalue="Python.5-4可视化" />
-        <item index="4" class="java.lang.String" itemvalue="Python.5-1" />
+        <item index="0" class="java.lang.String" itemvalue="Python.8-4使用inception-v3做各种图像的识别" />
+        <item index="1" class="java.lang.String" itemvalue="Python.8-3下载google图像识别网络inception-v3并查看结构" />
+        <item index="2" class="java.lang.String" itemvalue="Python.8-2加载" />
+        <item index="3" class="java.lang.String" itemvalue="Python.8-1保存" />
+        <item index="4" class="java.lang.String" itemvalue="Python.7-2递归神经网络RNN" />
       </list>
     </recent_temporary>
   </component>
@@ -598,19 +605,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="24" width="1114" height="592" extended-state="7" />
+    <frame x="37" y="24" width="1325" height="601" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14589004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21898928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854208" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.38996765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="225" y="171" width="862" height="389" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.38996765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="316" y="141" width="776" height="389" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2487395" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4333996" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42942345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -661,48 +668,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow08/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow08/验验证码识别程序的流程以及图片的处理.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/captcha_input.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1485">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/captcha_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1815">
-          <caret line="6" column="48" lean-forward="false" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow07/卷积分神经网络识别手写数字.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="48" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/验证码识别实现.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/demo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="878">
@@ -1045,10 +1010,64 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflowe08/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/DeepLearning/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-521">
+          <caret line="384" column="44" lean-forward="true" selection-start-line="384" selection-start-column="44" selection-end-line="384" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow07/7-2递归神经网络RNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="195">
+          <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="66" />
+          <folding>
+            <element signature="e#139#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflowe08/8-1保存.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+          <folding>
+            <element signature="e#141#164#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflowe08/8-2加载.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflowe08/8-3下载google图像识别网络inception-v3并查看结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+          <folding>
+            <element signature="e#168#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflowe08/8-4使用inception-v3做各种图像的识别.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="92" column="27" lean-forward="true" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
           <folding>
             <element signature="e#139#162#0" expanded="true" />
           </folding>
