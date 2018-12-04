@@ -78,39 +78,37 @@ h_pool2_flat = tf.reshape(h_pool2, [-1, 7 * 7 * 64])
 # 求第一个全连接层的输出
 h_fc1 = tf.nn.relu(tf.matmul(h_pool2_flat, w_fc1) + b_fc1)
 
-
 # keep_prob表示神经元的输出概率
 keep_prob = tf.placeholder(tf.float32)
-h_fc1_drop=tf.nn.dropout(h_fc1,keep_prob)
-
+h_fc1_drop = tf.nn.dropout(h_fc1, keep_prob)
 
 # 初始化第二个全了连接层
-w_fc2=weight_variables([1024,10])
-b_fc2=bias_variables([10])
+w_fc2 = weight_variables([1024, 10])
+b_fc2 = bias_variables([10])
 
 # 计算输出
-prediction = tf.nn.softmax(tf.matmul(h_fc1_drop,w_fc2)+b_fc2)
-cross_entropy=tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=y,logits=prediction))
+prediction = tf.nn.softmax(tf.matmul(h_fc1_drop, w_fc2) + b_fc2)
+cross_entropy = tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=y, logits=prediction))
 
 train_step = tf.train.AdadeltaOptimizer(1e-4).minimize(cross_entropy)
 
-correct_prediction =tf.equal(tf.argmax(prediction,1),tf.argmax(y,1))        # 结果存入布尔列表当中
+correct_prediction = tf.equal(tf.argmax(prediction, 1), tf.argmax(y, 1))  # 结果存入布尔列表当中
 
-accuracy = tf.reduce_mean(tf.cast(correct_prediction,tf.float32))
+accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
 
 with tf.Session() as sess:
     sess.run(tf.global_variables_initializer())
     for epoch in range(21):
         for batch in range(n_batch):
-            batch_xs,batch_ys = mnist.train.next_batch(batch_size)
-            sess.run(train_step,feed_dict={
-                x:batch_xs,
-                y:batch_ys
+            batch_xs, batch_ys = mnist.train.next_batch(batch_size)
+            sess.run(train_step, feed_dict={
+                x: batch_xs,
+                y: batch_ys
             })
-        acc = sess.run(accuracy,feed_dict={
-            x:mnist.test.images,
-            y:mnist.test.labels,
-            keep_prob:1.0
+        acc = sess.run(accuracy, feed_dict={
+            x: mnist.test.images,
+            y: mnist.test.labels,
+            keep_prob: 1.0
         })
 
-        print("计算第{}"+str(epoch)+"步, 计算准确率为"+str(acc)+"!")
+        print("计算第{}" + str(epoch) + "步, 计算准确率为" + str(acc) + "!")
