@@ -2,15 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45240b03-e5ba-4915-bdde-69451893cb56" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09/9-1训练自己的模型.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09/9-2生成tfrecord.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-1保存.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08/8-1保存.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-2加载.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08/8-2加载.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-3下载google图像识别网络inception-v3并查看结构.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08/8-3下载google图像识别网络inception-v3并查看结构.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-4使用inception-v3做各种图像的识别.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08/8-4使用inception-v3做各种图像的识别.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflowe08/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/dataset_factory.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/myimages.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10--4验证码测试.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-1生成tfrecord文件.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-1验证码生成.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-3验证码的识别.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/alexnet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/alexnet_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/cifarnet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_resnet_v2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_resnet_v2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v1_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v3.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v3_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v4.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v4_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/lenet.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/nets_factory.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/nets_factory_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/overfeat.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/overfeat_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_utils.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v1.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v1_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v2_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/vgg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/vgg_test.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/get_ner_loc_train_test_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/make_crf_train_data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/transform.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-2基于神经网络的命名实体识别/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow03/3-1非线性建模.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/3-1非线性建模.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow03/3-2softmax函数.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/3-2softmax函数.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow03/3-3手写数字识别.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/3-3手写数字识别.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow03/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow03/readme.md" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/readme.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow04/4-1交叉熵.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/4-1交叉熵.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow04/4-2拟合.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/4-2拟合.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow04/4-3优化器.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/4-3优化器.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow04/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05/5-1.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-1.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05/5-1准确率提高到0.95.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-1准确率提高到0.95.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05/5-2网络结构.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-2网络结构.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05/5-3网络运行.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-3网络运行.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05/5-4.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-4.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05/5-4可视化.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-4可视化.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow06卷积神经网络MNIST/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05/logs/events.out.tfevents.1543829418.turingemmy" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/logs/events.out.tfevents.1543829418.turingemmy" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow06/6-1卷积分神经网络应用于MNIST数据集分类.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow06卷积神经网络MNIST/6-1卷积分神经网络应用于MNIST数据集分类.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow06/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow07/7-1作业.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow07递归神经网络RNN/7-1作业.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow07/7-2递归神经网络RNN.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow07递归神经网络RNN/7-2递归神经网络RNN.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow07/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow07递归神经网络RNN/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow08/8-1保存.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-1保存.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow08/8-2加载.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-2加载.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow08/8-3下载google图像识别网络inception-v3并查看结构.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-3下载google图像识别网络inception-v3并查看结构.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow08/8-4使用inception-v3做各种图像的识别.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-4使用inception-v3做各种图像的识别.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow08/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow09/9-1训练自己的模型.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/9-1训练自己的模型.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow09/9-2生成tfrecord.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/9-2生成tfrecord.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow09/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/DeepLearingStudy.iml" afterPath="$PROJECT_DIR$/.idea/DeepLearingStudy.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow04.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow04.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable学习率的调整，梯度爆炸.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable学习率的调整，梯度爆炸.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/可视化.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/可视化.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/增加损失值等变量显示.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/增加损失值等变量显示.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/模型的保存.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/模型的保存.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/模型的加载.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/模型的加载.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requests.txt" afterPath="$PROJECT_DIR$/requests.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,26 +93,28 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/DeepLearingStudy$2_1.coverage" NAME="2-1 Coverage Results" MODIFIED="1543801552200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe02" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$8_3googleinception_v3.coverage" NAME="8-3下载google图像识别网络inception-v3并查看结构 Coverage Results" MODIFIED="1543911172707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
-    <SUITE FILE_PATH="coverage/DeepLearingStudy$.coverage" NAME="验证码识别实现 Coverage Results" MODIFIED="1543490382406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$2_4.coverage" NAME="2-4 Coverage Results" MODIFIED="1543807990425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe02" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$demo.coverage" NAME="demo Coverage Results" MODIFIED="1543479754990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowStudy/tensorflow08" />
-    <SUITE FILE_PATH="coverage/DeepLearingStudy$8_2.coverage" NAME="8-2加载 Coverage Results" MODIFIED="1543908416116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$10_1.coverage" NAME="10-1验证码生成 Coverage Results" MODIFIED="1543924246022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow10" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$6_1MNIST.coverage" NAME="6-1卷积分神经网络应用于MNIST数据集分类 Coverage Results" MODIFIED="1543902142156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow06" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$8_4inception_v3.coverage" NAME="8-4使用inception-v3做各种图像的识别 Coverage Results" MODIFIED="1543912792715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$4_3.coverage" NAME="4-3优化器 Coverage Results" MODIFIED="1543827183673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow04" />
-    <SUITE FILE_PATH="coverage/DeepLearingStudy$basic_eager_api.coverage" NAME="basic_eager_api Coverage Results" MODIFIED="1543828064177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02TensorFlow-Examples/2-1Introduction" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$5_1.coverage" NAME="5-1 Coverage Results" MODIFIED="1543829413369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow05" />
-    <SUITE FILE_PATH="coverage/DeepLearingStudy$7_1.coverage" NAME="7-1作业 Coverage Results" MODIFIED="1543903628988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow07" />
-    <SUITE FILE_PATH="coverage/DeepLearingStudy$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1543488341706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$8_1.coverage" NAME="8-1保存 Coverage Results" MODIFIED="1543908155337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
-    <SUITE FILE_PATH="coverage/DeepLearingStudy$3_1.coverage" NAME="3-1 Coverage Results" MODIFIED="1543810012196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow03" />
-    <SUITE FILE_PATH="coverage/DeepLearingStudy$4_2.coverage" NAME="4-2拟合 Coverage Results" MODIFIED="1543823449334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow04" />
-    <SUITE FILE_PATH="coverage/DeepLearingStudy$2_3.coverage" NAME="2-3 Coverage Results" MODIFIED="1543805878859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe02" />
-    <SUITE FILE_PATH="coverage/DeepLearingStudy$7_2RNN.coverage" NAME="7-2递归神经网络RNN Coverage Results" MODIFIED="1543908040944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow07" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$5_4.coverage" NAME="5-4可视化 Coverage Results" MODIFIED="1543896460522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow06" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$2_2.coverage" NAME="2-2 Coverage Results" MODIFIED="1543802705852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe02" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$3_3.coverage" NAME="3-3 Coverage Results" MODIFIED="1543817781858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow03" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$4_1.coverage" NAME="4-1 Coverage Results" MODIFIED="1543821011509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow04" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$.coverage" NAME="验证码识别实现 Coverage Results" MODIFIED="1543490382406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$8_2.coverage" NAME="8-2加载 Coverage Results" MODIFIED="1543908416116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$basic_eager_api.coverage" NAME="basic_eager_api Coverage Results" MODIFIED="1543828064177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02TensorFlow-Examples/2-1Introduction" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$7_1.coverage" NAME="7-1作业 Coverage Results" MODIFIED="1543903628988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow07" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1543488341706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$3_1.coverage" NAME="3-1 Coverage Results" MODIFIED="1543810012196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow03" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$4_2.coverage" NAME="4-2拟合 Coverage Results" MODIFIED="1543823449334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow04" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$10_2tfrecord.coverage" NAME="10-2生成tfrecord文件 Coverage Results" MODIFIED="1543924584583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow10" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$2_3.coverage" NAME="2-3 Coverage Results" MODIFIED="1543805878859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe02" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$7_2RNN.coverage" NAME="7-2递归神经网络RNN Coverage Results" MODIFIED="1543908040944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow07" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$01.coverage" NAME="01实现一个加法运算 Coverage Results" MODIFIED="1543207979291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowStudy/tensorflow01" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -60,32 +133,7 @@
     <favorites_list name="DeepLearingStudy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="9-1训练自己的模型.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow09/9-1训练自己的模型.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-              <folding>
-                <element signature="e#140#163#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="9-2生成tfrecord.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow09/9-2生成tfrecord.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="147" column="55" lean-forward="false" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
-              <folding>
-                <element signature="e#139#162#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -106,19 +154,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/卷积分神经网络识别手写数字.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/GoogleNetDemo.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/review.md.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/review.md" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/验验证码识别程序的流程以及图片的书ude处理.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/验证码的识别原理.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/demo.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/验验证码识别程序的流程以及图片的处理.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/验证码事别的婀实现.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/demo.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/验证码识别实现.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow09/分布式的原理，架构，更新参数模式.py" />
         <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow09/分布式的原理，架构，更新参数模式.md" />
         <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow09/自实现一个线性回归.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflowe02/2-1.py" />
@@ -157,6 +192,19 @@
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow09/9-1测试训练好的模型.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow09/9-2生成tfrecords.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow09/9-2生成tfrecord.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow10/10-1验证码生成.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow10/10-2生成tfrecord文件.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow10/nets/alexnet.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow10/10-1生成tfrecord文件.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow10/10-3验证码的识别.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow10/10--4验证码测试.py" />
+        <option value="$PROJECT_DIR$/requests.txt" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/get_ner_loc_train_test_data.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/make_crf_train_data.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/transform.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/get_ner_loc_train_test_data.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/make_crf_train_data.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/transform.py" />
       </list>
     </option>
   </component>
@@ -168,9 +216,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="37" />
-    <option name="y" value="24" />
-    <option name="width" value="632" />
-    <option name="height" value="592" />
+    <option name="y" value="52" />
+    <option name="width" value="1302" />
+    <option name="height" value="546" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -191,6 +239,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -231,13 +280,34 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tensorflow09" />
+              <option name="myItemId" value="tensorflow11自然语言处理实验" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DeepLearingStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DeepLearingStudy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="01Alchemy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tensorflow11自然语言处理实验" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="10-2基于神经网络的命名实体识别" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,54 +318,19 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理" />
       <recent name="$PROJECT_DIR$/01Alchemy/tensorflow05" />
       <recent name="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验" />
+      <recent name="$PROJECT_DIR$/01Alchemy/tensorflow10" />
       <recent name="$PROJECT_DIR$/01Alchemy" />
       <recent name="$PROJECT_DIR$/01Alchemy/tensorflowe02" />
       <recent name="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/tfrecords" />
-      <recent name="$PROJECT_DIR$/TensorFlowStudy/tensorflow07" />
-      <recent name="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/data" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.8-4使用inception-v3做各种图像的识别">
-    <configuration default="false" name="7-2递归神经网络RNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Alchemy/tensorflow07" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DeepLearingStudy" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflow07/7-2递归神经网络RNN.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="8-1保存" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="DeepLearingStudy" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-1保存.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.10-2生成tfrecord文件">
     <configuration default="false" name="8-2加载" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -346,6 +381,42 @@
       <module name="DeepLearingStudy" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-4使用inception-v3做各种图像的识别.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="10-1验证码生成" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Alchemy/tensorflow10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DeepLearingStudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflow10/10-1验证码生成.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="10-2生成tfrecord文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01Alchemy/tensorflow10" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="DeepLearingStudy" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01Alchemy/tensorflow10/10-1生成tfrecord文件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -565,19 +636,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.7-2递归神经网络RNN" />
-      <item index="1" class="java.lang.String" itemvalue="Python.8-1保存" />
-      <item index="2" class="java.lang.String" itemvalue="Python.8-2加载" />
-      <item index="3" class="java.lang.String" itemvalue="Python.8-3下载google图像识别网络inception-v3并查看结构" />
-      <item index="4" class="java.lang.String" itemvalue="Python.8-4使用inception-v3做各种图像的识别" />
+      <item index="0" class="java.lang.String" itemvalue="Python.8-2加载" />
+      <item index="1" class="java.lang.String" itemvalue="Python.8-3下载google图像识别网络inception-v3并查看结构" />
+      <item index="2" class="java.lang.String" itemvalue="Python.8-4使用inception-v3做各种图像的识别" />
+      <item index="3" class="java.lang.String" itemvalue="Python.10-1验证码生成" />
+      <item index="4" class="java.lang.String" itemvalue="Python.10-2生成tfrecord文件" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.8-4使用inception-v3做各种图像的识别" />
-        <item index="1" class="java.lang.String" itemvalue="Python.8-3下载google图像识别网络inception-v3并查看结构" />
-        <item index="2" class="java.lang.String" itemvalue="Python.8-2加载" />
-        <item index="3" class="java.lang.String" itemvalue="Python.8-1保存" />
-        <item index="4" class="java.lang.String" itemvalue="Python.7-2递归神经网络RNN" />
+        <item index="0" class="java.lang.String" itemvalue="Python.10-2生成tfrecord文件" />
+        <item index="1" class="java.lang.String" itemvalue="Python.10-1验证码生成" />
+        <item index="2" class="java.lang.String" itemvalue="Python.8-4使用inception-v3做各种图像的识别" />
+        <item index="3" class="java.lang.String" itemvalue="Python.8-3下载google图像识别网络inception-v3并查看结构" />
+        <item index="4" class="java.lang.String" itemvalue="Python.8-2加载" />
       </list>
     </recent_temporary>
   </component>
@@ -619,27 +690,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="24" width="632" height="592" extended-state="7" />
-    <editor active="true" />
+    <frame x="37" y="52" width="1302" height="546" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48634812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33200637" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854208" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.38996765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="299" y="120" width="776" height="389" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2487395" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8310139" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24673629" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.47767857" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.38996765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="178" y="95" width="655" height="247" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -682,109 +753,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow01/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="390">
-            <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow01/04会话的run方法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow09/自实现一个线性回归.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="36" column="35" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow09/分布式的原理，架构，更新参数模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-45">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="46" column="16" lean-forward="false" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow01/01实现一个加法运算.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="9" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow02/2-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow02/2-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow02/2-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflowe02/2.4tensorflow.ipynb" />
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow02/2-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow06/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="30">
-            <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/DeepLearning/lib/python3.5/site-packages/tensorflow/python/ops/math_ops.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="167" column="4" lean-forward="false" selection-start-line="167" selection-start-column="4" selection-end-line="167" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow03/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="75">
-            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="30" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow02/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -797,21 +765,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/01Alchemy/readme.md" />
     <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow04/readme.md" />
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow03/3-3手写数字识别.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/3-3手写数字识别.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="26" column="11" lean-forward="false" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow03/3-2softmax函数.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/3-2softmax函数.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow03/3-1非线性建模.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/3-1非线性建模.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="134">
           <caret line="47" column="12" lean-forward="false" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
@@ -864,7 +832,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow04/4-1交叉熵.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/4-1交叉熵.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
@@ -911,7 +879,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow04/4-3优化器.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/4-3优化器.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-30">
           <caret line="44" column="14" lean-forward="true" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
@@ -925,7 +893,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow04/4-2拟合.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/4-2拟合.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="12" column="65" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="65" />
@@ -953,68 +921,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow05/5-1.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="46" column="0" lean-forward="true" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow05/5-4.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow05/5-2网络结构.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-2网络结构.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-120">
           <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow05/5-3网络运行.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-3网络运行.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow05/5-4可视化.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-4可视化.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="960">
           <caret line="58" column="13" lean-forward="true" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow05/5-1准确率提高到0.95.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-1准确率提高到0.95.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="81" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow06/6-1卷积分神经网络应用于MNIST数据集分类.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow06卷积神经网络MNIST/6-1卷积分神经网络应用于MNIST数据集分类.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="88" column="6" lean-forward="true" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow07/7-1作业.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow07递归神经网络RNN/7-1作业.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="12" column="65" lean-forward="false" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08/__init__.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,75 +988,161 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-521">
           <caret line="384" column="44" lean-forward="true" selection-start-line="384" selection-start-column="44" selection-end-line="384" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow07/7-2递归神经网络RNN.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow07递归神经网络RNN/7-2递归神经网络RNN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="66" />
-          <folding>
-            <element signature="e#139#162#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08/8-1保存.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-1保存.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-2加载.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-3下载google图像识别网络inception-v3并查看结构.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-4使用inception-v3做各种图像的识别.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/9-2生成tfrecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="145" column="38" lean-forward="false" selection-start-line="145" selection-start-column="38" selection-end-line="145" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/9-1训练自己的模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-1验证码生成.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="39" column="11" lean-forward="true" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/vgg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="32" lean-forward="true" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-1生成tfrecord文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/alexnet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/nets_factory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-167">
+          <caret line="76" column="30" lean-forward="true" selection-start-line="76" selection-start-column="30" selection-end-line="76" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-3验证码的识别.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="158" column="67" lean-forward="false" selection-start-line="158" selection-start-column="34" selection-end-line="158" selection-end-column="67" />
           <folding>
             <element signature="e#141#164#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08/8-2加载.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10--4验证码测试.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        <state relative-caret-position="210">
+          <caret line="101" column="57" lean-forward="false" selection-start-line="101" selection-start-column="57" selection-end-line="101" selection-end-column="57" />
+          <folding>
+            <element signature="e#138#161#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/transform.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="28" column="68" lean-forward="false" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
+          <folding>
+            <element signature="e#187#200#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/make_crf_train_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="34" column="69" lean-forward="false" selection-start-line="34" selection-start-column="69" selection-end-line="34" selection-end-column="69" />
+          <folding>
+            <element signature="e#324#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/get_ner_loc_train_test_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="111" column="22" lean-forward="false" selection-start-line="111" selection-start-column="22" selection-end-line="111" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08/8-3下载google图像识别网络inception-v3并查看结构.py">
+    <entry file="file://$PROJECT_DIR$/requests.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-          <folding>
-            <element signature="e#168#191#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08/8-4使用inception-v3做各种图像的识别.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow02/2-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-          <folding>
-            <element signature="e#139#162#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow09/9-1训练自己的模型.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding>
-            <element signature="e#140#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow09/9-2生成tfrecord.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="147" column="55" lean-forward="false" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
-          <folding>
-            <element signature="e#139#162#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

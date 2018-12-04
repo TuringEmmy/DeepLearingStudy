@@ -48,7 +48,7 @@ def linear_regression():
 
         # 建立事件文件
         filewrite = tf.summary.FileWriter('./trainable/', graph=session.graph)
-        # tensorboard --logdir="C:\Users\TuringEmmy\Desktop\MachineLearning\TensorFlowStudy\tensorflow03\trainable"
+        # tensorboard --logdir="C:\Users\TuringEmmy\Desktop\MachineLearning\TensorFlowStudy\tensorflow03手写识别softmax\trainable"
 
         for i in range(500):
             session.run(train_op)

@@ -7,7 +7,7 @@ import tensorboard
 
 # tensorboard --logdir="./summary/"
 
-# tensorboard --logdir="C:\Users\TuringEmmy\Desktop\MachineLearning\TensorFlowStudy\tensorflow03\summary"
+# tensorboard --logdir="C:\Users\TuringEmmy\Desktop\MachineLearning\TensorFlowStudy\tensorflow03手写识别softmax\summary"
 
 
 import os

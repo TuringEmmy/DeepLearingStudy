@@ -42,7 +42,7 @@ def linear_regression():
         print('随机初始化的参数权重:%f, 偏置为%f' % (weight.eval(), bias.eval()))
 
         filewrite = tf.summary.FileWriter('./trainable/', graph=session.graph)
-        # tensorboard --logdir="C:\Users\TuringEmmy\Desktop\MachineLearning\TensorFlowStudy\tensorflow03\trainable"
+        # tensorboard --logdir="C:\Users\TuringEmmy\Desktop\MachineLearning\TensorFlowStudy\tensorflow03手写识别softmax\trainable"
 
         for i in range(500):
             session.run(train_op)
