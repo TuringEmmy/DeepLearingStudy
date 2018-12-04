@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45240b03-e5ba-4915-bdde-69451893cb56" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-1保存.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-2加载.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-3下载google图像识别网络inception-v3并查看结构.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-4使用inception-v3做各种图像的识别.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflowe08/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09/9-1训练自己的模型.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09/9-2生成tfrecord.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09/__init__.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-1保存.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08/8-1保存.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-2加载.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08/8-2加载.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-3下载google图像识别网络inception-v3并查看结构.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08/8-3下载google图像识别网络inception-v3并查看结构.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-4使用inception-v3做各种图像的识别.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08/8-4使用inception-v3做各种图像的识别.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/01Alchemy/tensorflowe08/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow07/7-2递归神经网络RNN.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow07/7-2递归神经网络RNN.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -25,7 +27,7 @@
     <SUITE FILE_PATH="coverage/DeepLearingStudy$demo.coverage" NAME="demo Coverage Results" MODIFIED="1543479754990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TensorFlowStudy/tensorflow08" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$8_2.coverage" NAME="8-2加载 Coverage Results" MODIFIED="1543908416116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$6_1MNIST.coverage" NAME="6-1卷积分神经网络应用于MNIST数据集分类 Coverage Results" MODIFIED="1543902142156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow06" />
-    <SUITE FILE_PATH="coverage/DeepLearingStudy$8_4inception_v3.coverage" NAME="8-4使用inception-v3做各种图像的识别 Coverage Results" MODIFIED="1543912156213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
+    <SUITE FILE_PATH="coverage/DeepLearingStudy$8_4inception_v3.coverage" NAME="8-4使用inception-v3做各种图像的识别 Coverage Results" MODIFIED="1543912792715" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflowe08" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$4_3.coverage" NAME="4-3优化器 Coverage Results" MODIFIED="1543827183673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow04" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$basic_eager_api.coverage" NAME="basic_eager_api Coverage Results" MODIFIED="1543828064177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/02TensorFlow-Examples/2-1Introduction" />
     <SUITE FILE_PATH="coverage/DeepLearingStudy$5_1.coverage" NAME="5-1 Coverage Results" MODIFIED="1543829413369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01Alchemy/tensorflow05" />
@@ -59,11 +61,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="8-4使用inception-v3做各种图像的识别.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflowe08/8-4使用inception-v3做各种图像的识别.py">
+      <file leaf-file-name="9-1训练自己的模型.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow09/9-1训练自己的模型.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="92" column="27" lean-forward="true" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+            <state relative-caret-position="134">
+              <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+              <folding>
+                <element signature="e#140#163#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="9-2生成tfrecord.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow09/9-2生成tfrecord.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="147" column="55" lean-forward="false" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
               <folding>
                 <element signature="e#139#162#0" expanded="true" />
               </folding>
@@ -92,11 +106,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/卷积分神经网络以及卷积层结构.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/面试题分析.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/激活层和池化层.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/卷积分神经网络势必额手写数字.py" />
-        <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/demo.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/卷积分神经网络识别手写数字.py" />
         <option value="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/GoogleNetDemo.py" />
@@ -143,6 +152,11 @@
         <option value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-2加载.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-3下载google图像识别网络inception-v3并查看结构.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-4使用inception-v3做各种图像的识别.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow09/9-1训练自己的图片分类的模.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow09/9-1训练自己的图片分类的模型.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow09/9-1测试训练好的模型.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow09/9-2生成tfrecords.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow09/9-2生成tfrecord.py" />
       </list>
     </option>
   </component>
@@ -155,8 +169,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="37" />
     <option name="y" value="24" />
-    <option name="width" value="1325" />
-    <option name="height" value="601" />
+    <option name="width" value="632" />
+    <option name="height" value="592" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -217,7 +231,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="tensorflowe08" />
+              <option name="myItemId" value="tensorflow09" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -605,19 +619,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="24" width="1325" height="601" extended-state="7" />
+    <frame x="37" y="24" width="632" height="592" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21898928" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48634812" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854208" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.38996765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="316" y="141" width="776" height="389" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.38996765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="299" y="120" width="776" height="389" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2487395" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42942345" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8310139" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -668,20 +682,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/demo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="878">
-          <caret line="163" column="14" lean-forward="true" selection-start-line="163" selection-start-column="14" selection-end-line="163" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow01/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1010,7 +1010,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflowe08/__init__.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
@@ -1036,7 +1036,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflowe08/8-1保存.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08/8-1保存.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
           <caret line="46" column="26" lean-forward="true" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
@@ -1046,7 +1046,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflowe08/8-2加载.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08/8-2加载.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="19" column="48" lean-forward="true" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
@@ -1054,7 +1054,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflowe08/8-3下载google图像识别网络inception-v3并查看结构.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08/8-3下载google图像识别网络inception-v3并查看结构.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="29" column="10" lean-forward="false" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
@@ -1064,10 +1064,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflowe08/8-4使用inception-v3做各种图像的识别.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08/8-4使用inception-v3做各种图像的识别.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="92" column="27" lean-forward="true" selection-start-line="92" selection-start-column="27" selection-end-line="92" selection-end-column="27" />
+        <state relative-caret-position="270">
+          <caret line="34" column="20" lean-forward="true" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding>
+            <element signature="e#139#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow09/9-1训练自己的模型.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+          <folding>
+            <element signature="e#140#163#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow09/9-2生成tfrecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="147" column="55" lean-forward="false" selection-start-line="147" selection-start-column="55" selection-end-line="147" selection-end-column="55" />
           <folding>
             <element signature="e#139#162#0" expanded="true" />
           </folding>
