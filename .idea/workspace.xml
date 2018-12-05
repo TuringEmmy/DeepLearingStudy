@@ -2,10 +2,258 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45240b03-e5ba-4915-bdde-69451893cb56" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03tangshi/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/logs/events.out.tfevents.1543829418.turingemmy" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/logs/events.out.tfevents.1543829418.turingemmy" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-05-20.jpg" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-05-20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-12-44.jpg" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-12-44.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-13-22.jpg" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-13-22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-13-50.jpg" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-13-50.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-15-01.jpg" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-15-01.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-15-44.jpg" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-15-44.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-16-22.jpg" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/image/TuringEmmy_2018-12-05_20-16-22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-22_12-02-04.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-22_12-02-04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-22_17-08-17.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-22_17-08-17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_17-38-32.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_17-38-32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_17-41-43.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_17-41-43.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_17-42-22.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_17-42-22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_17-43-26.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_17-43-26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_17-43-59.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_17-43-59.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_17-45-08.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_17-45-08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_18-45-43.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_18-45-43.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_18-47-04.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_18-47-04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_18-49-07.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/TuringEmmy_2018-11-26_18-49-07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/softmax.png" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/softmax.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/数字.png" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/数字.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/image/矩阵表示隐层输出.png" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/image/矩阵表示隐层输出.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/技术能力，案例和项目.doc" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/技术能力，案例和项目.doc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/机器学习面试题.docx" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/机器学习面试题.docx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/save/mmodel.data-00000-of-00001" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/save/mmodel.data-00000-of-00001" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/save/mmodel.index" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/save/mmodel.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/save/mmodel.meta" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/save/mmodel.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/summary/events.out.tfevents.1542719427.DESKTOP-SI0NJVF" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/summary/events.out.tfevents.1542719427.DESKTOP-SI0NJVF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/summary/events.out.tfevents.1542721539.DESKTOP-SI0NJVF" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/summary/events.out.tfevents.1542721539.DESKTOP-SI0NJVF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542727379.DESKTOP-SI0NJVF" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542727379.DESKTOP-SI0NJVF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542855951.DESKTOP-SI0NJVF" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542855951.DESKTOP-SI0NJVF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542856362.DESKTOP-SI0NJVF" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542856362.DESKTOP-SI0NJVF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542857097.DESKTOP-SI0NJVF" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542857097.DESKTOP-SI0NJVF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542857243.DESKTOP-SI0NJVF" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542857243.DESKTOP-SI0NJVF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542857996.DESKTOP-SI0NJVF" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542857996.DESKTOP-SI0NJVF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542858057.DESKTOP-SI0NJVF" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542858057.DESKTOP-SI0NJVF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542858111.DESKTOP-SI0NJVF" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542858111.DESKTOP-SI0NJVF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542858450.DESKTOP-SI0NJVF" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable/events.out.tfevents.1542858450.DESKTOP-SI0NJVF" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_17-38-32.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_17-38-32.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_17-41-43.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_17-41-43.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_17-42-22.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_17-42-22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_17-43-26.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_17-43-26.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_17-43-59.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_17-43-59.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_17-45-08.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_17-45-08.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_18-45-43.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_18-45-43.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_18-47-04.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_18-47-04.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_18-49-07.jpg" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/TuringEmmy_2018-11-26_18-49-07.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/softmax.png" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/softmax.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/数字.png" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/数字.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/矩阵表示隐层输出.png" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/image/矩阵表示隐层输出.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/model/fc_model.data-00000-of-00001" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/model/fc_model.data-00000-of-00001" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/model/fc_model.index" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/model/fc_model.index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/model/fc_model.meta" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/model/fc_model.meta" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543221199.turing" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543221199.turing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224018.turing" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224018.turing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224172.turing" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224172.turing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224205.turing" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224205.turing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224235.turing" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224235.turing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224348.turing" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224348.turing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224371.turing" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224371.turing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224444.turing" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224444.turing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224467.turing" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224467.turing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224568.turing" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224568.turing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224631.turing" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/summary/events.out.tfevents.1543224631.turing" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/image/3D图.png" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/image/3D图.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/image/Mnist数据集人工神经网络分析.png" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/image/Mnist数据集人工神经网络分析.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/image/one-hot2.png" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/image/one-hot2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/image/卷积图.png" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/image/卷积图.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/image/卷积层.png" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/image/卷积层.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/image/汽车卷积.png" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/image/汽车卷积.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/DeepLearingStudy.iml" afterPath="$PROJECT_DIR$/.idea/DeepLearingStudy.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow01/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow01/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow01/readme.md" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow01/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow02/2-1.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow02/2-1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow02/2-2.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow02/2-2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow02/2-3.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow02/2-3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow02/2-4.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow02/2-4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow02/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow02/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow02/readme.md" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow02/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/3-1非线性建模.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/3-1非线性建模.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/3-2softmax函数.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/3-2softmax函数.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/3-3手写数字识别.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/3-3手写数字识别.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/readme.md" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow03手写识别softmax/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/4-1交叉熵.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/4-1交叉熵.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/4-2拟合.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/4-2拟合.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/4-3优化器.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/4-3优化器.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow04交叉熵优化器拟合/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-1.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-1准确率提高到0.95.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-1准确率提高到0.95.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-2网络结构.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-2网络结构.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-3网络运行.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-3网络运行.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-4.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-4可视化.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/5-4可视化.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow05网络可视化/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow06卷积神经网络MNIST/6-1卷积分神经网络应用于MNIST数据集分类.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow06卷积神经网络MNIST/6-1卷积分神经网络应用于MNIST数据集分类.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow06卷积神经网络MNIST/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow06卷积神经网络MNIST/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow07递归神经网络RNN/7-1作业.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow07递归神经网络RNN/7-1作业.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow07递归神经网络RNN/7-2递归神经网络RNN.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow07递归神经网络RNN/7-2递归神经网络RNN.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow07递归神经网络RNN/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow07递归神经网络RNN/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-1保存.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-1保存.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-2加载.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-2加载.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-3下载google图像识别网络inception-v3并查看结构.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-3下载google图像识别网络inception-v3并查看结构.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-4使用inception-v3做各种图像的识别.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-4使用inception-v3做各种图像的识别.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/9-1训练自己的模型.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/9-1训练自己的模型.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/9-2生成tfrecord.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/9-2生成tfrecord.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/dataset_factory.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/dataset_factory.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/myimages.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/myimages.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10--4验证码测试.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10--4验证码测试.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-1生成tfrecord文件.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-1生成tfrecord文件.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-1验证码生成.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-1验证码生成.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-3验证码的识别.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-3验证码的识别.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/alexnet.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/alexnet.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/alexnet_test.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/alexnet_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/cifarnet.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/cifarnet.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_resnet_v2.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_resnet_v2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_resnet_v2_test.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_resnet_v2_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_utils.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v1.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v1_test.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v1_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v2.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v2_test.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v2_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v3.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v3_test.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v3_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v4.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v4_test.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v4_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/lenet.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/lenet.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/nets_factory.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/nets_factory.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/nets_factory_test.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/nets_factory_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/overfeat.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/overfeat.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/overfeat_test.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/overfeat_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_utils.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_utils.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v1.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v1_test.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v1_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v2.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v2_test.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v2_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/vgg.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/vgg.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/vgg_test.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/vgg_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/get_ner_loc_train_test_data.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/get_ner_loc_train_test_data.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/make_crf_train_data.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/make_crf_train_data.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/transform.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-1自然语言处理/transform.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-2基于神经网络的命名实体识别/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-2基于神经网络的命名实体识别/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/Readme.txt" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/Readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/detect_face.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/detect_face.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/facenet.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/facenet.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/nn4.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/nn4.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_classifier.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_classifier.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_detection_mtcnn.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_detection_mtcnn.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/train_classifier.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/train_classifier.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/mnist-softmax.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/mnist-softmax.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/核心知识点总结.md" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/核心知识点总结.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/深度学习学习下的十种人脸识别方案以及案例.md" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/深度学习学习下的十种人脸识别方案以及案例.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02TensorFlow-Examples/2-1Introduction/__init__.py" afterPath="$PROJECT_DIR$/02TensorFlow-Examples/2-1Introduction/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02TensorFlow-Examples/2-1Introduction/basic_eager_api.py" afterPath="$PROJECT_DIR$/02TensorFlow-Examples/2-1Introduction/basic_eager_api.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02TensorFlow-Examples/__init__.py" afterPath="$PROJECT_DIR$/02TensorFlow-Examples/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/__init__.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/demo.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/demo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow01.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow01.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow02.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow02.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow03.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow03.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow04.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow04.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow05.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow05.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow06.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow06.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow07.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/note/Tensorflow07.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow01/01实现一个加法运算.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow01/01实现一个加法运算.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow01/02图.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow01/02图.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow01/03会话的使用.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow01/03会话的使用.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow01/04会话的run方法.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow01/04会话的run方法.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow01/__init__.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow01/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow02/__init__.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow02/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow02/index'.ipynb" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow02/index'.ipynb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow02/变量.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow02/变量.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow02/张量的定义及运算.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow02/张量的定义及运算.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow02/运算API介绍.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow02/运算API介绍.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/__init__.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/demo.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/demo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/save/checkpoint" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/save/checkpoint" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable学习率的调整，梯度爆炸.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable学习率的调整，梯度爆炸.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/可视化.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/可视化.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/增加损失值等变量显示.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/增加损失值等变量显示.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/模型的保存.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/模型的保存.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/模型的加载.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/模型的加载.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/线性回归原理.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/线性回归原理.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/线性回归实现.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/线性回归实现.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/自定义命令行参数.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/自定义命令行参数.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/__init__.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/csvfile/GB_video_data_numbers.csv" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/csvfile/GB_video_data_numbers.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/csvfile/US_video_data_numbers.csv" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/csvfile/US_video_data_numbers.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/csv文件的读取.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/csv文件的读取.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/tensorflow解决读取数据，实现同步模拟.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/tensorflow解决读取数据，实现同步模拟.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/文件读取流程.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/文件读取流程.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/线程协调器.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/线程协调器.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/队列管理器和携程协调器实现异步读取训练.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow04/队列管理器和携程协调器实现异步读取训练.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/__init__.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/demo.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/demo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/tfrecords文件的读取.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/tfrecords文件的读取.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/tfrecords文件的读取与存储.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/tfrecords文件的读取与存储.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/二进制文件的读取.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/二进制文件的读取.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/图像基本知识分析.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/图像基本知识分析.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/图像文件读取.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow05/图像文件读取.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/Tensorflow07.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/Tensorflow07.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/__init__.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/model/checkpoint" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/model/checkpoint" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/readme.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/感知机模型.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/感知机模型.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/手写数字识别.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/手写数字识别.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/神经网络结构.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/神经网络结构.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/简单的单层神经网络预测手写数字图片.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/简单的单层神经网络预测手写数字图片.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/简单的神经网络实现手写数字图片识别.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/简单的神经网络实现手写数字图片识别.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/GoogleNetDemo.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/GoogleNetDemo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/Tensorflow08.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/Tensorflow08.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/__init__.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/demo.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/demo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/readme.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/卷积分神经网络以及卷积层结构.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/卷积分神经网络以及卷积层结构.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/卷积分神经网络识别手写数字.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/卷积分神经网络识别手写数字.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/激活层和池化层.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/激活层和池化层.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/面试题分析.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow07/面试题分析.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/__init__.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/captcha_input.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/captcha_input.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/captcha_train.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/captcha_train.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/demo.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/demo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/tfrecords/captcha.tfrecords" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/tfrecords/captcha.tfrecords" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/验证码识别实现.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/验证码识别实现.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/__init__.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/demo.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/demo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/review.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/review.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/验证码的识别原理.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/验证码的识别原理.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/验验证码识别程序的流程以及图片的处理.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/验验证码识别程序的流程以及图片的处理.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow09/__init__.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow09/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow09/tensorflow08.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow09/tensorflow08.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow09/分布式的原理，架构，更新参数模式.md" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow09/分布式的原理，架构，更新参数模式.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow09/自实现一个线性回归.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow09/自实现一个线性回归.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/requests.txt" afterPath="$PROJECT_DIR$/requests.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -60,7 +308,7 @@
     <favorites_list name="DeepLearingStudy" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -144,7 +392,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="37" />
     <option name="y" value="24" />
-    <option name="width" value="749" />
+    <option name="width" value="889" />
     <option name="height" value="635" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -197,25 +445,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="01Alchemy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLearingStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLearingStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="01Alchemy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tensorflow12案例实践[人脸识别]" />
+              <option name="myItemId" value="03tangshi" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -612,27 +842,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="24" width="749" height="635" extended-state="6" />
+    <frame x="37" y="24" width="889" height="635" extended-state="7" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.55192035" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26215896" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854208" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.38996765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="205" y="124" width="655" height="340" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24673629" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55666006" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.38996765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="205" y="124" width="655" height="340" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -955,11 +1185,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/核心知识点总结.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="348">
@@ -968,12 +1193,16 @@
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -981,10 +1210,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-427">
           <caret line="240" column="15" lean-forward="true" selection-start-line="240" selection-start-column="15" selection-end-line="240" selection-end-column="15" />
-          <folding>
-            <element signature="e#376#414#0" expanded="true" />
-            <marker date="1544005625000" expanded="true" signature="8870:9192" ph="&quot;&quot;&quot;Add summaries for losses in CIFAR-10 model....&quot;&quot;&quot;" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -992,9 +1217,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#139#162#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1002,9 +1224,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="34" column="21" lean-forward="true" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
-          <folding>
-            <element signature="e#138#161#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1012,9 +1231,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="79" column="26" lean-forward="false" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-          <folding>
-            <element signature="e#139#162#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1022,10 +1238,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-45">
           <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding>
-            <element signature="e#139#162#0" expanded="true" />
-            <marker date="1544004631000" expanded="true" signature="3939:4299" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1033,9 +1245,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <element signature="e#140#163#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1043,10 +1252,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="294" column="0" lean-forward="false" selection-start-line="294" selection-start-column="0" selection-end-line="294" selection-end-column="0" />
-          <folding>
-            <element signature="e#1396#1434#0" expanded="true" />
-            <marker date="1544002932000" expanded="true" signature="11128:11133" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1054,7 +1259,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
