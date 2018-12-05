@@ -15,7 +15,8 @@ from __future__ import print_function
 
 import os
 from os import path
-from six.moves import xrange
+
+# from six.moves import xrange
 import tensorflow as tf
 import os
 os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
@@ -24,7 +25,8 @@ from tensorflow.python.ops import control_flow_ops
 import numpy as np
 from scipy import misc
 import matplotlib.pyplot as plt
-from sklearn.cross_validation import KFold
+# from sklearn.cross_validation import KFold
+from  sklearn.model_selection import KFold
 
 parameters = []
 conv_counter = 1
@@ -356,7 +358,7 @@ def to_rgb(img):
 def load_data(image_paths, do_random_crop, do_random_flip, image_size, do_prewhiten=True):
     nrof_samples = len(image_paths)
     img_list = [None] * nrof_samples
-    for i in xrange(nrof_samples):
+    for i in range(nrof_samples):
         img = misc.imread(image_paths[i])
         if img.ndim == 2:
             img = to_rgb(img)
@@ -408,7 +410,7 @@ def select_training_triplets(embeddings, num_per_class, image_data, people_per_b
     np.random.shuffle(shuffle)
     emb_start_idx = 0
     nrof_random_negs = 0
-    for i in xrange(people_per_batch):
+    for i in range(people_per_batch):
         n = num_per_class[i]
         for j in range(1, n):
             a_idx = emb_start_idx
@@ -461,7 +463,7 @@ def select_validation_triplets(num_per_class, people_per_batch, image_data, batc
     shuffle = np.arange(nrof_trip)
     np.random.shuffle(shuffle)
     emb_start_idx = 0
-    for i in xrange(len(num_per_class)):
+    for i in range(len(num_per_class)):
         n = num_per_class[i]
         for j in range(1, n):
             a_idx = emb_start_idx

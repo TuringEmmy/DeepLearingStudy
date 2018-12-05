@@ -87,7 +87,7 @@ if __name__ == '__main__':
     if gray.ndim == 2:
         img = to_rgb(gray)
 
-    bounding_boxes, points = detect_face.detect_face(img, minsize, pnet, rnet, onet, threshold, factor)
+    bounding_boxes, points = detect_face.detect_face( img , minsize, pnet, rnet, onet, threshold, factor)
 
     nrof_faces = bounding_boxes.shape[0]  # number of faces
 
