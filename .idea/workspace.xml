@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45240b03-e5ba-4915-bdde-69451893cb56" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/detect_face.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/facenet.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/nn4.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_classifier.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_detection_mtcnn.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/train_classifier.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/mnist-softmax.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/核心知识点总结.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/DeepLearingStudy.iml" afterPath="$PROJECT_DIR$/.idea/DeepLearingStudy.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-2基于神经网络的命名实体识别/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow11自然语言处理实验/10-2基于神经网络的命名实体识别/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/__init__.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/__init__.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,74 +55,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="facenet.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/facenet.py">
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-              <folding>
-                <element signature="e#376#414#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nn4.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/nn4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-              <folding>
-                <element signature="e#139#162#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_classifier.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_classifier.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="121" column="105" lean-forward="true" selection-start-line="121" selection-start-column="105" selection-end-line="121" selection-end-column="105" />
-              <folding>
-                <element signature="e#164#187#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_detection_mtcnn.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_detection_mtcnn.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding>
-                <element signature="e#140#163#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="train_classifier.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/train_classifier.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-25">
-              <caret line="118" column="45" lean-forward="true" selection-start-line="118" selection-start-column="45" selection-end-line="118" selection-end-column="45" />
-              <folding>
-                <element signature="e#139#162#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="detect_face.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/detect_face.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-              <folding>
-                <element signature="e#1396#1434#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="135">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -161,7 +86,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01Alchemy/tensorflow04/4-1.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow04/4-2.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow04/readme.md" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow04/dfgsg.py" />
@@ -212,6 +136,7 @@
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_detection_mtcnn.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_classifier.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/train_classifier.py" />
+        <option value="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/__init__.py" />
       </list>
     </option>
   </component>
@@ -224,8 +149,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="37" />
     <option name="y" value="24" />
-    <option name="width" value="826" />
-    <option name="height" value="592" />
+    <option name="width" value="1325" />
+    <option name="height" value="601" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -245,6 +170,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -314,7 +240,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -697,17 +622,17 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="24" width="826" height="592" extended-state="6" />
+    <frame x="37" y="24" width="1325" height="601" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.49215406" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21188429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854208" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24673629" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55666006" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55666006" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -719,26 +644,6 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13035382" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12941177" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40876946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2487395" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
@@ -760,13 +665,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.virtualenvs/DeepLearning/lib/python3.5/site-packages/tensorflow/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="23" column="19" lean-forward="false" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.virtualenvs/DeepLearning/lib/python3.5/site-packages/tensorflow/core/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1070,26 +968,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="10" column="65" lean-forward="false" selection-start-line="10" selection-start-column="65" selection-end-line="10" selection-end-column="65" />
-          <folding>
-            <element signature="e#138#161#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/核心知识点总结.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="348">
             <caret line="70" column="7" lean-forward="false" selection-start-line="70" selection-start-column="7" selection-end-line="70" selection-end-column="7" />
-            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1097,36 +990,108 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/detect_face.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
-          <folding>
-            <element signature="e#1396#1434#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/facenet.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding>
             <element signature="e#376#414#0" expanded="true" />
+            <marker date="1544002905000" expanded="true" signature="8817:9835" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="8822:9144" ph="&quot;&quot;&quot;Add summaries for losses in CIFAR-10 model....&quot;&quot;&quot;" />
+            <marker date="1544002905000" expanded="true" signature="9406:9535" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="9571:9806" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="9580:9692" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="9921:11744" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="9926:10281" ph="&quot;&quot;&quot;Setup training for the FaceNet model....&quot;&quot;&quot;" />
+            <marker date="1544002905000" expanded="true" signature="10487:10958" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="11258:11354" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="11764:11923" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="11967:12362" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="12003:12345" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="12089:12212" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="12394:12500" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="12519:12654" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="12747:13179" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="12855:13129" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="13233:13635" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="13429:13569" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="13695:13939" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="14035:16395" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="14061:14136" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="14570:16300" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="14629:16272" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="14831:14936" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="15137:15401" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="15555:15941" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="15622:15941" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="15810:15941" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="16486:17718" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="16884:17507" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="16943:17479" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="17740:18057" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="17835:17899" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="17923:17996" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="18020:18057" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="18083:18657" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="18134:18637" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="18314:18637" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="18446:18637" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="18706:20008" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="18738:19048" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="19081:19897" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="19182:19897" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="19352:19542" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="19595:19724" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="20075:21134" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="20470:21095" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="21214:22655" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="21819:22625" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="22203:22441" ph="..." />
+            <marker date="1544002905000" expanded="true" signature="22713:23262" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/nn4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="90">
           <caret line="7" column="38" lean-forward="false" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding>
             <element signature="e#139#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="123" column="57" lean-forward="false" selection-start-line="123" selection-start-column="57" selection-end-line="123" selection-end-column="57" />
+          <folding>
+            <marker date="1544003719000" expanded="true" signature="3937:4297" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/train_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="119" column="82" lean-forward="true" selection-start-line="119" selection-start-column="82" selection-end-line="119" selection-end-column="82" />
+          <folding>
+            <element signature="e#139#162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/detect_face.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <folding>
+            <element signature="e#1396#1434#0" expanded="true" />
+            <marker date="1544002932000" expanded="true" signature="11128:11133" ph="..." />
           </folding>
         </state>
       </provider>
@@ -1141,23 +1106,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_classifier.py">
+    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="121" column="105" lean-forward="true" selection-start-line="121" selection-start-column="105" selection-end-line="121" selection-end-column="105" />
-          <folding>
-            <element signature="e#164#187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/train_classifier.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25">
-          <caret line="118" column="45" lean-forward="true" selection-start-line="118" selection-start-column="45" selection-end-line="118" selection-end-column="45" />
-          <folding>
-            <element signature="e#139#162#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="135">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
