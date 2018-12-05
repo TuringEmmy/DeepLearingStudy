@@ -157,7 +157,7 @@ if __name__ == '__main__':
 
 """
 python D:/Tensorflow/slim/train_image_classifier.py ^
---train_dir=D:/Tensorflow/slim/model ^
+--train_dir=D:/Tensorflow/slim/models ^
 --dataset_name=myimages ^
 --dataset_split_name=train ^
 --dataset_dir=D:/Tensorflow/slim/images ^

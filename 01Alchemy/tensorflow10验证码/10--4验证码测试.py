@@ -99,7 +99,7 @@ with tf.Session() as sess:
     sess.run(tf.global_variables_initializer())
     # 载入训练好的模型
     saver = tf.train.Saver()
-    saver.restore(sess, '/mnt/hgfs/WorkSpace/data/captcha/models/crack_captcha.model-6000')
+    saver.restore(sess, '/mnt/hgfs/WorkSpace/data/captcha/models/crack_captcha.models-6000')
 
     # 创建一个协调器，管理线程
     coord = tf.train.Coordinator()

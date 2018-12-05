@@ -95,7 +95,7 @@ def inception_resnet_v2(inputs, num_classes=1001, is_training=True,
                         dropout_keep_prob=0.8,
                         reuse=None,
                         scope='InceptionResnetV2'):
-  """Creates the Inception Resnet V2 model.
+  """Creates the Inception Resnet V2 models.
 
   Args:
     inputs: a 4-D tensor of size [batch_size, height, width, 3].
@@ -107,8 +107,8 @@ def inception_resnet_v2(inputs, num_classes=1001, is_training=True,
     scope: Optional variable_scope.
 
   Returns:
-    logits: the logits outputs of the model.
-    end_points: the set of end_points from the inception model.
+    logits: the logits outputs of the models.
+    end_points: the set of end_points from the inception models.
   """
   end_points = {}
 

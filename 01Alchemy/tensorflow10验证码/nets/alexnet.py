@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
-"""Contains a model definition for AlexNet.
+"""Contains a models definition for AlexNet.
 
 This work was first described in:
   ImageNet Classification with Deep Convolutional Neural Networks
@@ -75,7 +75,7 @@ def alexnet_v2(inputs,
   Args:
     inputs: a tensor of size [batch_size, height, width, channels].
     num_classes: number of predicted classes.
-    is_training: whether or not the model is being trained.
+    is_training: whether or not the models is being trained.
     dropout_keep_prob: the probability that activations are kept in the dropout
       layers during training.
     spatial_squeeze: whether or not should squeeze the spatial dimensions of the

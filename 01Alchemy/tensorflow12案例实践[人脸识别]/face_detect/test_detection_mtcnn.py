@@ -22,7 +22,7 @@ factor = 0.709  # scale factor
 
 # facenet embedding parameters
 
-model_dir = '/mnt/hgfs/WorkSpace/data/detect_face/model_check_point/model.ckpt-500000'  # "Directory containing the graph definition and checkpoint files.")
+model_dir = '/mnt/hgfs/WorkSpace/data/detect_face/model_check_point/models.ckpt-500000'  # "Directory containing the graph definition and checkpoint files.")
 image_size = 96  # "Image size (height, width) in pixels."
 pool_type = 'MAX'  # "The type of pooling to use for some of the inception layers {'MAX', 'L2'}.
 use_lrn = False  # "Enables Local Response Normalization after the first layers of the inception network."

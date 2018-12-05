@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
-"""Contains the model definition for the OverFeat network.
+"""Contains the models definition for the OverFeat network.
 
 The definition for the network was obtained from:
   OverFeat: Integrated Recognition, Localization and Detection using
@@ -53,7 +53,7 @@ def overfeat(inputs,
              dropout_keep_prob=0.5,
              spatial_squeeze=True,
              scope='overfeat'):
-  """Contains the model definition for the OverFeat network.
+  """Contains the models definition for the OverFeat network.
 
   The definition for the network was obtained from:
     OverFeat: Integrated Recognition, Localization and Detection using
@@ -69,7 +69,7 @@ def overfeat(inputs,
   Args:
     inputs: a tensor of size [batch_size, height, width, channels].
     num_classes: number of predicted classes.
-    is_training: whether or not the model is being trained.
+    is_training: whether or not the models is being trained.
     dropout_keep_prob: the probability that activations are kept in the dropout
       layers during training.
     spatial_squeeze: whether or not should squeeze the spatial dimensions of the

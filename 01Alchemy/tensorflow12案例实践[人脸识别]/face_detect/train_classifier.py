@@ -26,7 +26,7 @@ threshold = [0.6, 0.7, 0.7]  # three steps's threshold
 factor = 0.709  # scale factor
 
 # facenet embedding parameters
-model_dir = '/mnt/hgfs/WorkSpace/data/detect_face/model_check_point/model-20160506.ckpt-500000'  # "Directory containing the graph definition and checkpoint files.")
+model_dir = '/mnt/hgfs/WorkSpace/data/detect_face/model_check_point/models-20160506.ckpt-500000'  # "Directory containing the graph definition and checkpoint files.")
 image_size = 96  # "Image size (height, width) in pixels."
 pool_type = 'MAX'  # "The type of pooling to use for some of the inception layers {'MAX', 'L2'}.
 use_lrn = False  # "Enables Local Response Normalization after the first layers of the inception network."
@@ -101,7 +101,7 @@ if __name__ == '__main__':
     ema = tf.train.ExponentialMovingAverage(1.0)
     saver = tf.train.Saver(ema.variables_to_restore())
 
-    model_checkpoint_path = '/mnt/hgfs/WorkSpace/data/detect_face/model_check_point/model-20160506.ckpt-500000'
+    model_checkpoint_path = '/mnt/hgfs/WorkSpace/data/detect_face/model_check_point/models-20160506.ckpt-500000'
 
     saver.restore(sess, model_checkpoint_path)
     print('facenet embedding模型建立完毕')
@@ -202,5 +202,5 @@ if __name__ == '__main__':
     accuracy = metrics.accuracy_score(y_test, predict)
     print('accuracy: %.2f%%' % (100 * accuracy))
 
-    # save model
-    joblib.dump(model, '/mnt/hgfs/WorkSpace/data/detect_face/model_check_point/knn_classifier_gender.model')
+    # save models
+    joblib.dump(model, '/mnt/hgfs/WorkSpace/data/detect_face/model_check_point/knn_classifier_gender.models')

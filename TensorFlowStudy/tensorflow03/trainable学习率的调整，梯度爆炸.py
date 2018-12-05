@@ -13,7 +13,7 @@ def linear_regression():
         x = tf.random_normal([100, 1], mean=1.75, stddev=0.5, name='x_data')
         y_true = tf.matmul(x, [[0.7]]) + 0.8
 
-    with tf.variable_scope("model"):
+    with tf.variable_scope("models"):
         weight = tf.Variable(tf.random_normal([1, 1], mean=0.0, stddev=1.0), name='w')
         bias = tf.Variable(0.0, name='b')
         y_predict = tf.matmul(x, weight) + bias

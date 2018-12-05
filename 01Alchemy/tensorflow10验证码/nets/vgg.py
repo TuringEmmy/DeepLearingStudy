@@ -12,9 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # ==============================================================================
-"""Contains model definitions for versions of the Oxford VGG network.
+"""Contains models definitions for versions of the Oxford VGG network.
 
-These model definitions were introduced in the following technical report:
+These models definitions were introduced in the following technical report:
 
   Very Deep Convolutional Networks For Large-Scale Image Recognition
   Karen Simonyan and Andrew Zisserman
@@ -78,7 +78,7 @@ def vgg_a(inputs,
   Args:
     inputs: a tensor of size [batch_size, height, width, channels].
     num_classes: number of predicted classes.
-    is_training: whether or not the model is being trained.
+    is_training: whether or not the models is being trained.
     dropout_keep_prob: the probability that activations are kept in the dropout
       layers during training.
     spatial_squeeze: whether or not should squeeze the spatial dimensions of the
@@ -143,7 +143,7 @@ def vgg_16(inputs,
   Args:
     inputs: a tensor of size [batch_size, height, width, channels].
     num_classes: number of predicted classes.
-    is_training: whether or not the model is being trained.
+    is_training: whether or not the models is being trained.
     dropout_keep_prob: the probability that activations are kept in the dropout
       layers during training.
     spatial_squeeze: whether or not should squeeze the spatial dimensions of the
@@ -208,7 +208,7 @@ def vgg_19(inputs,
   Args:
     inputs: a tensor of size [batch_size, height, width, channels].
     num_classes: number of predicted classes.
-    is_training: whether or not the model is being trained.
+    is_training: whether or not the models is being trained.
     dropout_keep_prob: the probability that activations are kept in the dropout
       layers during training.
     spatial_squeeze: whether or not should squeeze the spatial dimensions of the

@@ -156,7 +156,7 @@ with tf.Session() as sess:
             # 保存模型
             # if acc0 > 0.90 and acc1 > 0.90 and acc2 > 0.90 and acc3 > 0.90:
             if i == 6000:
-                saver.save(sess, "/mnt/hgfs/WorkSpace/data/captcha/models/crack_captcha.model", global_step=i)
+                saver.save(sess, "/mnt/hgfs/WorkSpace/data/captcha/models/crack_captcha.models", global_step=i)
                 break
 
                 # 通知其他线程关闭

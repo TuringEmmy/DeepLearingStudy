@@ -68,7 +68,7 @@ def fc_model(image):
     :param image: 100图片特征值[100, 20, 80, 3]
     :return: y_predict预测值[100, 4 * 26]
     """
-    with tf.variable_scope("model"):
+    with tf.variable_scope("models"):
         # 将图片数据形状转换成二维的形状
         image_reshape = tf.reshape(image, [-1, 20 * 80 * 3])
 

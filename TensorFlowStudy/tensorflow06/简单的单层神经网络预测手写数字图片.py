@@ -64,12 +64,12 @@ def fullconnected():
 
             print("*" * 100)
             # 保存模型
-            saver.save(session, "./model/fc_model")
+            saver.save(session, "./models/fc_model")
             print("*" * 100)
 
         else:
             # 加载模型
-            saver.restore(session, './model/fc_model')
+            saver.restore(session, './models/fc_model')
             # 如果是0, 做出预测
             for i in range(100):
                 # 每次测试一张图片

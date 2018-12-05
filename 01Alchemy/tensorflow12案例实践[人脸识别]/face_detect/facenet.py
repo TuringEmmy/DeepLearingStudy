@@ -243,7 +243,7 @@ def triplet_loss(anchor, positive, negative, alpha):
 
 def _add_loss_summaries(total_loss):
     # 损失函数
-    """Add summaries for losses in CIFAR-10 model.
+    """Add summaries for losses in CIFAR-10 models.
 
     Generates moving average for all losses and associated summaries for
     visualizing the performance of the network.
@@ -270,7 +270,7 @@ def _add_loss_summaries(total_loss):
 
 
 def train(total_loss, global_step, optimizer, learning_rate, moving_average_decay):
-    """Setup training for the FaceNet model.
+    """Setup training for the FaceNet models.
 
     Create an optimizer and apply to all trainable variables. Add moving
     average for all trainable variables.

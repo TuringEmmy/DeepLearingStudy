@@ -69,7 +69,7 @@ def fc_model(image):
     :param image_batch: 图片特征值
     :return: y_predict预测值[100,4*26]
     """
-    with tf.variable_scope("model"):
+    with tf.variable_scope("models"):
         # 将图片数据形状转换成而为的形状
         image_reshape = tf.reshape(image, [-1, 20 * 80 * 3])
         # 1. 随机初始化权重和偏置
