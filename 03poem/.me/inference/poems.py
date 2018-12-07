@@ -3,16 +3,16 @@
 # time      12/5/18 10:02 PM
 # project   DeepLearingStudy
 
-import tensorflow as tf
 import os
 
+import tensorflow as tf
 from inference.poems2 import generate_batch
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
-from models.model import rnn_model
+from practice.models import rnn_model
 
-from dataset.poems import process_poems
+from practice.dataset.poems import process_poems
 
 FLAGS = tf.app.flags.FLAGS
 

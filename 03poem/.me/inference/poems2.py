@@ -4,7 +4,7 @@
 # project   DeepLearingStudy
 import collections
 
-from inference.poems import start_token, end_token
+from practice.inference.poems import start_token, end_token
 
 
 # 预处理

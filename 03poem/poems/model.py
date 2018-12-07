@@ -1,12 +1,9 @@
 # life is short, you need use python to create something!
 # author    TuringEmmy
-# time      12/7/18 5:24 PM
+# time      12/7/18 5:25 PM
 # project   DeepLearingStudy
 
 import tensorflow as tf
-import os
-os.environ['TF_CPP_MIN_LOG_LEVEL']='2'
-
 import numpy as np
 
 
@@ -47,26 +44,21 @@ def rnn_model(model, input_data, output_data, vocab_size, rnn_size=128, num_laye
         inputs = tf.nn.embedding_lookup(embedding, input_data)
 
     # [batch_size, ?, rnn_size] = [64, ?, 128]
-    print(inputs.get_shape())
     outputs, last_state = tf.nn.dynamic_rnn(cell, inputs, initial_state=initial_state)
-    print(outputs.get_shape())
     output = tf.reshape(outputs, [-1, rnn_size])
 
     weights = tf.Variable(tf.truncated_normal([rnn_size, vocab_size + 1]))
     bias = tf.Variable(tf.zeros(shape=[vocab_size + 1]))
     logits = tf.nn.bias_add(tf.matmul(output, weights), bias=bias)
     # [?, vocab_size+1]
-    print('logits shape: ', logits.get_shape())
 
     if output_data is not None:
         # output_data must be one-hot encode
         labels = tf.one_hot(tf.reshape(output_data, [-1]), depth=vocab_size + 1)
         # should be [?, vocab_size+1]
-        print('labels shape: ', labels.get_shape())
 
         loss = tf.nn.softmax_cross_entropy_with_logits(labels=labels, logits=logits)
         # loss shape should be [?, vocab_size+1]
-        print(loss.get_shape())
         total_loss = tf.reduce_mean(loss)
         train_op = tf.train.AdamOptimizer(learning_rate).minimize(total_loss)
 
