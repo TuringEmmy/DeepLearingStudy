@@ -2,47 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45240b03-e5ba-4915-bdde-69451893cb56" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03poem/dataset/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03poem/dataset/poems.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03poem/inference/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03poem/inference/poems.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03poem/inference/poems2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03poem/main.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03poem/models/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03poem/models/model.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03poem/utils/__init__.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/03tangshi/__init__.py" afterPath="$PROJECT_DIR$/03poem/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/DeepLearingStudy.iml" afterPath="$PROJECT_DIR$/.idea/DeepLearingStudy.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/03poem/models/model2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/9-2生成tfrecord.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow09模型训练/9-2生成tfrecord.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10--4验证码测试.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10--4验证码测试.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-3验证码的识别.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/10-3验证码的识别.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/alexnet.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/alexnet.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/cifarnet.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/cifarnet.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_resnet_v2.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_resnet_v2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_utils.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v2.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v3.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v3.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v4.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/inception_v4.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/lenet.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/lenet.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/nets_factory.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/nets_factory.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/overfeat.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/overfeat.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_utils.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_utils.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v1.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v1.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v2.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/resnet_v2.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/vgg.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow10验证码/nets/vgg.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/facenet.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/facenet.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_classifier.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_classifier.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_detection_mtcnn.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/test_detection_mtcnn.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/train_classifier.py" afterPath="$PROJECT_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect/train_classifier.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable学习率的调整，梯度爆炸.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/trainable学习率的调整，梯度爆炸.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/增加损失值等变量显示.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/增加损失值等变量显示.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/模型的保存.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/模型的保存.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/模型的加载.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow03/模型的加载.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/简单的单层神经网络预测手写数字图片.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow06/简单的单层神经网络预测手写数字图片.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/captcha_train.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/captcha_train.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/demo.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/demo.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/验证码识别实现.py" afterPath="$PROJECT_DIR$/TensorFlowStudy/tensorflow08/CaptchaRecognize/验证码识别实现.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03poem/inference/poems.py" afterPath="$PROJECT_DIR$/03poem/inference/poems.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03poem/inference/poems2.py" afterPath="$PROJECT_DIR$/03poem/inference/poems2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03poem/models/model.py" afterPath="$PROJECT_DIR$/03poem/models/model.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -98,12 +62,12 @@
     <favorites_list name="DeepLearingStudy" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="poems.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03poem/inference/poems.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="32" column="71" lean-forward="true" selection-start-line="32" selection-start-column="71" selection-end-line="32" selection-end-column="71" />
+            <state relative-caret-position="298">
+              <caret line="84" column="68" lean-forward="false" selection-start-line="84" selection-start-column="68" selection-end-line="84" selection-end-column="68" />
               <folding>
                 <element signature="e#140#163#0" expanded="true" />
               </folding>
@@ -111,13 +75,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="poems2.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/03poem/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03poem/models/model2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="645">
+              <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+              <folding>
+                <element signature="e#139#162#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="model.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03poem/models/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <element signature="e#141#164#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="poems2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/03poem/inference/poems2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="255">
+              <caret line="71" column="18" lean-forward="false" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
               <folding>
                 <element signature="e#139#157#0" expanded="true" />
+                <element signature="e#252#1525#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -144,8 +143,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/01Alchemy/tensorflow06/5-3网络运行.py" />
-        <option value="$PROJECT_DIR$/01Alchemy/tensorflow06/5-4可视化.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow06/6-1卷积分神经网络应用于MNIST数据集分类.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflow07/7-1作业.py" />
         <option value="$PROJECT_DIR$/01Alchemy/tensorflowe08/8-1保存.py" />
@@ -191,10 +188,12 @@
         <option value="$PROJECT_DIR$/03poem/inference/tang_poems.py" />
         <option value="$PROJECT_DIR$/03poem/utils/clean_cn.py" />
         <option value="$PROJECT_DIR$/03poem/main.py" />
-        <option value="$PROJECT_DIR$/03poem/models/model.py" />
-        <option value="$PROJECT_DIR$/03poem/inference/poems.py" />
         <option value="$PROJECT_DIR$/03poem/dataset/poems.py" />
         <option value="$PROJECT_DIR$/03poem/inference/poems2.py" />
+        <option value="$PROJECT_DIR$/03poem/models/model.py" />
+        <option value="$PROJECT_DIR$/03poem/test.py" />
+        <option value="$PROJECT_DIR$/03poem/models/model2.py" />
+        <option value="$PROJECT_DIR$/03poem/inference/poems.py" />
       </list>
     </option>
   </component>
@@ -206,9 +205,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="37" />
-    <option name="y" value="52" />
-    <option name="width" value="700" />
-    <option name="height" value="543" />
+    <option name="y" value="24" />
+    <option name="width" value="899" />
+    <option name="height" value="573" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -236,31 +235,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
               <option name="myItemId" value="DeepLearingStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLearingStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLearingStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="DeepLearingStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TensorFlowStudy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -609,27 +584,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="37" y="52" width="700" height="543" extended-state="0" />
+    <frame x="37" y="24" width="899" height="573" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43173432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.49355218" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32854208" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771537" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.38996765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="205" y="152" width="655" height="340" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24673629" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55666006" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.55465585" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.38996765" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="205" y="152" width="655" height="340" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32771537" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -652,27 +627,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.virtualenvs/DeepLearning/lib/python3.5/site-packages/tensorflow/python/ops/rnn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-521">
-          <caret line="384" column="44" lean-forward="true" selection-start-line="384" selection-start-column="44" selection-end-line="384" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow07递归神经网络RNN/7-2递归神经网络RNN.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="12" column="66" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/01Alchemy/tensorflow08识别inception/8-1保存.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="627">
@@ -846,9 +800,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-427">
           <caret line="240" column="15" lean-forward="true" selection-start-line="240" selection-start-column="15" selection-end-line="240" selection-end-column="15" />
-          <folding>
-            <element signature="e#376#414#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -870,9 +821,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="79" column="26" lean-forward="false" selection-start-line="79" selection-start-column="26" selection-end-line="79" selection-end-column="26" />
-          <folding>
-            <element signature="e#139#162#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -880,9 +828,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-45">
           <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding>
-            <element signature="e#139#162#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -890,9 +835,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <element signature="e#140#163#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -910,51 +852,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03poem/dataset/lyrics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-516">
-          <caret line="105" column="0" lean-forward="false" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03poem/inference/song_lyrics.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="804">
-          <caret line="157" column="16" lean-forward="false" selection-start-line="157" selection-start-column="16" selection-end-line="157" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03poem/inference/tang_poems.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="519">
-          <caret line="171" column="16" lean-forward="false" selection-start-line="171" selection-start-column="16" selection-end-line="171" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03poem/utils/clean_cn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="564">
-          <caret line="164" column="0" lean-forward="false" selection-start-line="164" selection-start-column="0" selection-end-line="164" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03poem/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/03poem/dataset/lyrics.py" />
+    <entry file="file://$PROJECT_DIR$/03poem/inference/song_lyrics.py" />
+    <entry file="file://$PROJECT_DIR$/03poem/inference/tang_poems.py" />
+    <entry file="file://$PROJECT_DIR$/03poem/utils/clean_cn.py" />
     <entry file="file://$PROJECT_DIR$/TensorFlowStudy/tensorflow07/卷积分神经网络以及卷积层结构.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-67">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -962,7 +867,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -970,7 +874,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -978,7 +881,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -987,7 +889,6 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
@@ -997,7 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1005,7 +905,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1013,15 +912,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-720">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/03poem/models/model.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1029,27 +919,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/DeepLearning/lib/python3.5/site-packages/tensorflow/contrib/rnn/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03poem/test.py" />
+    <entry file="file://$PROJECT_DIR$/03poem/inference/poems2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="71" column="18" lean-forward="false" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+          <folding>
+            <element signature="e#139#157#0" expanded="true" />
+            <element signature="e#252#1525#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03poem/models/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#141#164#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03poem/models/model2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="0" lean-forward="false" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
+          <folding>
+            <element signature="e#139#162#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/03poem/inference/poems.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="32" column="71" lean-forward="true" selection-start-line="32" selection-start-column="71" selection-end-line="32" selection-end-column="71" />
+        <state relative-caret-position="298">
+          <caret line="84" column="68" lean-forward="false" selection-start-line="84" selection-start-column="68" selection-end-line="84" selection-end-column="68" />
           <folding>
             <element signature="e#140#163#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/03poem/inference/poems2.py">
+    <entry file="file://$PROJECT_DIR$/03poem/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding>
-            <element signature="e#139#157#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="264">
+          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
