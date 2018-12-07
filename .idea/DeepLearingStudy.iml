@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/01Alchemy/tensorflow12案例实践[人脸识别]/face_detect" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/03poem" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04Chinese_poem_generator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04poem_generator" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.5.2 virtualenv at ~/.virtualenvs/DeepLearning" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
